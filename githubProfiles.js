@@ -1,25 +1,4 @@
 
-// 28. GitHub Profiles
-
-// Important JS and CSS concepts for the project
-
-// 1. GitHub REST API
-// 2. getElementById()
-// 3. async, axios, try, catch
-// 4. template literals
-// 5. forEach()
-// 6. classList, href, target, appendChild
-// 7. addEventListener('submit')
-// 8. preventDefault
-// 9. :root
-// 10. @media query
-
-// axios > promise based HTTP client for the browser and node.js
-
-
-// variables
-
-// root GitHub URL
 const APIURL = 'https://api.github.com/users/';
 
 const main = document.getElementById('main');
